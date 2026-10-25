@@ -1,0 +1,3 @@
+pulp
+openpyxl
+pillow  # optional: background image in the GUI

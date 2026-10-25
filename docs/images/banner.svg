@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Genetic Algorithm for Production Scheduling">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFE9B8"/>
+      <stop offset="0.5" stop-color="#FFD6D6"/>
+      <stop offset="1" stop-color="#D3D9F8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="28" fill="url(#bg)"/>
+  <circle cx="1060" cy="60" r="120" fill="#FFFFFF" fill-opacity="0.35"/>
+  <circle cx="1130" cy="230" r="80" fill="#FFFFFF" fill-opacity="0.28"/>
+  <circle cx="90" cy="250" r="95" fill="#FFFFFF" fill-opacity="0.25"/>
+  <rect x="80" y="56" width="170" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.7"/>
+  <text x="165" y="79" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#6B4E7A" letter-spacing="1.5">TEAM PROJECT</text>
+  <text x="80" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#3A3558">Genetic Algorithm</text>
+  <text x="82" y="212" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="500" fill="#4A4568">Just-in-Time Production Scheduling</text>
+</svg>
