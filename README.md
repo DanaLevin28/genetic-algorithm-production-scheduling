@@ -75,6 +75,7 @@ The 7-job instance used in the course (t = 4, 12, 4, 9, 6, 5, 12 · d = 30, 25, 
 |---|---|
 | Original order 1-2-3-4-5-6-7 (LP only) | **43** |
 | Best possible order 2-3-1-4-5-6-7, found by checking all 5,040 orders | **17** |
+| Genetic algorithm result | **17** (reaches the optimum) |
 
 ## 📁 Project structure
 
