@@ -76,8 +76,6 @@ The 7-job instance used in the course (t = 4, 12, 4, 9, 6, 5, 12 · d = 30, 25, 
 | Original order 1-2-3-4-5-6-7 (LP only) | **43** |
 | Best possible order 2-3-1-4-5-6-7, found by checking all 5,040 orders | **17** |
 
-<!-- Add the result of your own GA run here, e.g. "GA result after 10 s: 17 (found in generation N)", and a screenshot of the Gantt output. -->
-
 ## 📁 Project structure
 
 | File | Role |
